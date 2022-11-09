@@ -2,12 +2,33 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Doing clone repository:
+
+```bash
+git clone https://github.com/Hiago-Maitan/Podcastr/
+```
+
+Install Depencies:
+
+```bash
+# Depencies
+npm install
+```
+
 First, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
+```
+
+Second, run server.json (fake-backend):
+
+```bash
+npm run server
+# or
+yarn server
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
